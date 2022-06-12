@@ -56,7 +56,7 @@ ROOT_URLCONF = 'mysch.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['myedu-env.eba-i9pfiie2.us-west-2.elasticbeanstalk.com'],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
